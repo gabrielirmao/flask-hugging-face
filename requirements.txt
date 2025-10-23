@@ -1,0 +1,6 @@
+flask
+torch
+transformers==4.48.2
+bitsandbytes
+accelerate
+einops
